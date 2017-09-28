@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  coredockerwindows:
+    image: coredockerwindows
+    build:
+      context: ./CoreDockerWindows
+      dockerfile: Dockerfile

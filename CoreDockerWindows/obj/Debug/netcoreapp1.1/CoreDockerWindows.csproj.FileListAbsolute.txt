@@ -1,0 +1,10 @@
+C:\Users\ashus\source\repos\CoreDockerWindows\CoreDockerWindows\bin\Debug\netcoreapp1.1\CoreDockerWindows.deps.json
+C:\Users\ashus\source\repos\CoreDockerWindows\CoreDockerWindows\bin\Debug\netcoreapp1.1\CoreDockerWindows.runtimeconfig.json
+C:\Users\ashus\source\repos\CoreDockerWindows\CoreDockerWindows\bin\Debug\netcoreapp1.1\CoreDockerWindows.runtimeconfig.dev.json
+C:\Users\ashus\source\repos\CoreDockerWindows\CoreDockerWindows\bin\Debug\netcoreapp1.1\CoreDockerWindows.dll
+C:\Users\ashus\source\repos\CoreDockerWindows\CoreDockerWindows\bin\Debug\netcoreapp1.1\CoreDockerWindows.pdb
+C:\Users\ashus\source\repos\CoreDockerWindows\CoreDockerWindows\obj\Debug\netcoreapp1.1\CoreDockerWindows.csprojResolveAssemblyReference.cache
+C:\Users\ashus\source\repos\CoreDockerWindows\CoreDockerWindows\obj\Debug\netcoreapp1.1\CoreDockerWindows.csproj.CoreCompileInputs.cache
+C:\Users\ashus\source\repos\CoreDockerWindows\CoreDockerWindows\obj\Debug\netcoreapp1.1\CoreDockerWindows.AssemblyInfo.cs
+C:\Users\ashus\source\repos\CoreDockerWindows\CoreDockerWindows\obj\Debug\netcoreapp1.1\CoreDockerWindows.dll
+C:\Users\ashus\source\repos\CoreDockerWindows\CoreDockerWindows\obj\Debug\netcoreapp1.1\CoreDockerWindows.pdb
